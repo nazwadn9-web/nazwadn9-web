@@ -1,36 +1,24 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=nasukacheese&fontSize=52&fontColor=e9d5ff&fontAlignY=38&desc=Creative%20Developer%20%26%20Night%20Coder%20✦&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<!-- Header typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=80&lines=Hi!+I'm+nasukacheese+%F0%9F%A4%96;Creative+Developer+%E2%9C%A6;Night+Coder+%F0%9F%8C%99;Welcome+to+my+profile!+%F0%9F%92%9C)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Contact Badges -->
+[![Gmail](https://img.shields.io/badge/Gmail-nasukacheese-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D0F5E)](mailto:nasukacheese@gmail.com)&nbsp;[![TikTok](https://img.shields.io/badge/TikTok-%40viol__118-A855F7?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1A0533)](https://tiktok.com/@viol_118)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nasukacheese&color=7b2ff7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<div align="center">
+## 👋 Tentang Saya
 
-<!-- Robot gif (animated via SVG embed workaround) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%A4%96;Seorang+developer+yang+suka+ngoding+malam...;Open+Source+%7C+Fast+Learner+%7C+Night+Coder;Welcome+to+my+GitHub+profile!+%E2%9C%A6" alt="Typing SVG"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Status Badges -->
-[![Gmail](https://img.shields.io/badge/Gmail-nasukacheese-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D0F5E)](mailto:nasukacheese@gmail.com)
-[![TikTok](https://img.shields.io/badge/TikTok-@viol__118-A855F7?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1A0533)](https://tiktok.com/@viol_118)
-
-</div>
-
-<br/>
-
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Tentang Saya
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding robot gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding robot"/>
 
 ```js
 const nasukacheese = {
@@ -47,7 +35,7 @@ const nasukacheese = {
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"/> Skills & Tools
+## 🛠️ Skills & Tools
 
 <div align="center">
 
@@ -70,14 +58,13 @@ const nasukacheese = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nasukacheese&show_icons=true&theme=tokyonight&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF&bg_color=1A0533&border_color=4A1A8C&border_radius=12&hide_border=false" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasukacheese&layout=compact&theme=tokyonight&title_color=A855F7&text_color=E9D5FF&bg_color=1A0533&border_color=4A1A8C&border_radius=12" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nasukacheese&show_icons=true&theme=tokyonight&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF&bg_color=1A0533&border_color=4A1A8C&border_radius=12&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasukacheese&layout=compact&theme=tokyonight&title_color=A855F7&text_color=E9D5FF&bg_color=1A0533&border_color=4A1A8C&border_radius=12&langs_count=6" height="165"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nasukacheese&theme=tokyonight&background=1A0533&border=4A1A8C&stroke=4A1A8C&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=A855F7&sideLabels=A855F7&dates=7B2FF7&border_radius=12" height="170"/>
+<img src="https://streak-stats.demolab.com?user=nasukacheese&theme=tokyonight&background=1A0533&border=4A1A8C&stroke=4A1A8C&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=A855F7&sideLabels=A855F7&dates=7B2FF7&border_radius=12" height="165"/>
 
 </div>
 
@@ -90,7 +77,7 @@ const nasukacheese = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasukacheese/nasukacheese/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasukacheese/nasukacheese/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nasukacheese/nasukacheese/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nasukacheese/nasukacheese/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -102,9 +89,9 @@ const nasukacheese = {
 <div align="center">
 
 | Project | Status | Tech |
-|---------|--------|------|
+|:-------:|:------:|:----:|
 | 🌐 Portfolio Site | 🟣 In Progress | React + Tailwind |
-| 🔓 Open Source Contributions | 🟣 Active | Various |
+| 🔓 Open Source | 🟣 Active | Various |
 | 🦀 Learning Rust | 🔵 Learning | Rust |
 
 </div>
@@ -115,19 +102,14 @@ const nasukacheese = {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-nasukacheese@gmail.com-7B2FF7?style=flat-square&logo=gmail&logoColor=white)](mailto:nasukacheese@gmail.com)
-&nbsp;
-[![TikTok](https://img.shields.io/badge/-@viol__118-A855F7?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@viol_118)
+[![Gmail](https://img.shields.io/badge/-nasukacheese%40gmail.com-7B2FF7?style=flat-square&logo=gmail&logoColor=white)](mailto:nasukacheese@gmail.com)&nbsp;&nbsp;[![TikTok](https://img.shields.io/badge/-%40viol__118-A855F7?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@viol_118)
 
-</div>
+<br/><br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=7B2FF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%9C%A6;Feel+free+to+reach+out+anytime+%F0%9F%92%9C;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
 
-<div align="center">
+<br/>
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&animation=fadeIn" width="100%"/>
-
-<sub>✦ Made with 💜 by <b>nasukacheese</b> — last updated 2025 ✦</sub>
+*✦ Made with 💜 by **nasukacheese** ✦*
 
 </div>

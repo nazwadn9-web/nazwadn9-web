@@ -1,35 +1,66 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Via%20✦&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Student%20·%20Web%20Developer%20·%20Semarang%20🇮🇩&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=nasukacheese&fontSize=52&fontColor=e9d5ff&fontAlignY=38&desc=Creative%20Developer%20%26%20Night%20Coder%20✦&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<!-- TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Building+elegant+digital+solutions+💜;Web+Dev+%7C+UI%2FUX+Enthusiast+✨;Always+learning%2C+always+growing+🌱;Open+for+collaboration+🤝" alt="Typing SVG" />
-</a>
+</div>
 
-<br/><br/>
+---
 
-<!-- SOCIAL BADGES -->
-<a href="https://instagram.com/ur_lovna">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://tiktok.com/@viol_118">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/nazwa-dn">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://nazwa-portofolio-landingpage.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-%23BD93F9.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<div align="center">
 
-<br/><br/>
+<!-- Robot gif (animated via SVG embed workaround) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%A4%96;Seorang+developer+yang+suka+ngoding+malam...;Open+Source+%7C+Fast+Learner+%7C+Night+Coder;Welcome+to+my+GitHub+profile!+%E2%9C%A6" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=viaror&style=flat-square&color=BD93F9&label=profile+views" alt="profile views"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Status Badges -->
+[![Gmail](https://img.shields.io/badge/Gmail-nasukacheese-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D0F5E)](mailto:nasukacheese@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-@viol__118-A855F7?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1A0533)](https://tiktok.com/@viol_118)
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Tentang Saya
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding robot gif"/>
+
+```js
+const nasukacheese = {
+  username : "nasukacheese",
+  gmail    : "nasukacheese@gmail.com",
+  tiktok   : "@viol_118",
+  passion  : ["coding", "design", "open source"],
+  status   : "🟣 Building something cool...",
+  motto    : "Code is poetry written for machines ✦"
+};
+```
+
+<br clear="right"/>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"/> Skills & Tools
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-2D0F5E?style=for-the-badge&logo=javascript&logoColor=A855F7)
+![Python](https://img.shields.io/badge/Python-1A0533?style=for-the-badge&logo=python&logoColor=C084FC)
+![React](https://img.shields.io/badge/React-2D0F5E?style=for-the-badge&logo=react&logoColor=A855F7)
+![Node.js](https://img.shields.io/badge/Node.js-1A0533?style=for-the-badge&logo=node.js&logoColor=C084FC)
+![CSS3](https://img.shields.io/badge/CSS3-2D0F5E?style=for-the-badge&logo=css3&logoColor=A855F7)
+![Tailwind](https://img.shields.io/badge/Tailwind-1A0533?style=for-the-badge&logo=tailwind-css&logoColor=C084FC)
+![Git](https://img.shields.io/badge/Git-2D0F5E?style=for-the-badge&logo=git&logoColor=A855F7)
+![Figma](https://img.shields.io/badge/Figma-1A0533?style=for-the-badge&logo=figma&logoColor=C084FC)
+![Linux](https://img.shields.io/badge/Linux-2D0F5E?style=for-the-badge&logo=linux&logoColor=A855F7)
+![VS Code](https://img.shields.io/badge/VS_Code-1A0533?style=for-the-badge&logo=visual-studio-code&logoColor=C084FC)
 
 </div>
 
@@ -39,103 +70,64 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=viaror&show_icons=true&theme=dracula&hide_border=true&bg_color=0d0d0f&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&rank_icon=github&include_all_commits=true&count_private=true" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viaror&theme=dracula&hide_border=true&bg_color=0d0d0f&title_color=BD93F9&text_color=F8F8F2&layout=compact&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nasukacheese&show_icons=true&theme=tokyonight&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF&bg_color=1A0533&border_color=4A1A8C&border_radius=12&hide_border=false" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasukacheese&layout=compact&theme=tokyonight&title_color=A855F7&text_color=E9D5FF&bg_color=1A0533&border_color=4A1A8C&border_radius=12" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nasukacheese&theme=tokyonight&background=1A0533&border=4A1A8C&stroke=4A1A8C&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=A855F7&sideLabels=A855F7&dates=7B2FF7&border_radius=12" height="170"/>
 
 </div>
 
 ---
 
-<details>
-<summary><b>✨ Show More — Streak, Stack & Projects</b></summary>
-
-<br/>
+## 🐍 Contribution Snake
 
 <div align="center">
 
-### 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=viaror&theme=dracula&hide_border=true&background=0d0d0f&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9&sideLabels=F8F8F2&dates=6272A4" width="60%" alt="Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasukacheese/nasukacheese/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasukacheese/nasukacheese/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nasukacheese/nasukacheese/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
-<br/>
+---
+
+## ⚡ Currently Working On
 
 <div align="center">
 
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viaror&theme=dracula&bg_color=0d0d0f&color=BD93F9&line=FF79C6&point=50FA7B&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+| Project | Status | Tech |
+|---------|--------|------|
+| 🌐 Portfolio Site | 🟣 In Progress | React + Tailwind |
+| 🔓 Open Source Contributions | 🟣 Active | Various |
+| 🦀 Learning Rust | 🔵 Learning | Rust |
 
 </div>
 
-<br/>
+---
+
+## 📬 Hubungi Saya
 
 <div align="center">
 
-### 🛠️ Tech Stack
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark"/>
-
-<br/><br/>
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,mysql,mongodb&theme=dark"/>
-
-<br/><br/>
-
-**Tools & Design**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel&theme=dark"/>
+[![Gmail](https://img.shields.io/badge/-nasukacheese@gmail.com-7B2FF7?style=flat-square&logo=gmail&logoColor=white)](mailto:nasukacheese@gmail.com)
+&nbsp;
+[![TikTok](https://img.shields.io/badge/-@viol__118-A855F7?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@viol_118)
 
 </div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=viaror&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%" alt="Trophies"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🚀 Featured Projects
-
-| Project | Description | Live |
-|:-------:|:------------|:----:|
-| 🪙 Crypto Website | Web App cryptocurrency modern | [→](https://cryptowebsitedn.netlify.app/) |
-| 🌿 EcoSafe Zone | Aplikasi peduli lingkungan | [→](https://ecosafezone.netlify.app/) |
-| 🗂️ Landing Page | Portofolio personal | [→](https://nazwa-portofolio-landingpage.netlify.app/) |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💭 Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" width="65%" alt="Quote"/>
-
-</div>
-
-</details>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>💜 Made with love · Via · Semarang, Indonesia</sub>
+<sub>✦ Made with 💜 by <b>nasukacheese</b> — last updated 2025 ✦</sub>
 
 </div>
